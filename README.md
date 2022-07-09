@@ -1,3 +1,3 @@
 # html-css-capstone-project-01
-HTML - CSS Capstone Project
-Features:
+## Description:
+First website project using HTML and CSS. Each page consists of a navigation bar linking the four pages to one another.
