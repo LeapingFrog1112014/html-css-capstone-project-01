@@ -34,6 +34,20 @@
     align-items: center;
 }
 
+.gallery {
+    display: grid;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    grid-template-rows: repeat(2 , 1fr);
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.gallery__images {
+    width: 50%;
+    height: auto;
+}
+
 legend {
     padding: 0.5rem;
     border: 1px solid black;
