@@ -1,0 +1,28 @@
+.header {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+.header_1 {
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: auto;
+    height: auto;
+    border: 2px solid black;
+    padding: 1rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#content-img {
+    width: auto;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
